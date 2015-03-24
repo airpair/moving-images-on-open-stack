@@ -23,7 +23,7 @@ Assume you have:
 
 Assume now you are not the OS admin and the two projetcs do not share any resource.
 
-![Moving Glance Image between Projects](http://oi61.tinypic.com/wim4h1.jpg)
+![Moving Glance Image between Projects](https://openmerchantaccount.com/img/moving_glance_image_between_project.PNG)
 
 Let's now see how to copy IMAGE1 from PROJECT1 to PROJECT2
 
